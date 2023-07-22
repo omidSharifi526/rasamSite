@@ -31,7 +31,7 @@ const Tools = () => {
       <h2 style={{fontFamily:'Aria',fontWeight:'700',fontSize:'38px',color:'#1B60E6'}} className='pl-5 mt-1' >
       ابزار های ما
       </h2>
-     <div className='' >
+     <div className='badge' >
      <p>
       تیم رسام همواره تلاش نموده تا از بروز ترین و با کیفیت ترین ابزار ها در راستای بر طرف نمودن نیاز مشتریان استفاده کند.
       </p>
@@ -41,7 +41,7 @@ const Tools = () => {
     <div style={{logoContainer}} className='shadow rounded-2  bg-transparent m-3' >
      <Image
      src={Ai}
-    
+     alt='rasam'
      style={logoStyle}
      />
     </div>
@@ -52,6 +52,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -60,6 +61,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -68,6 +70,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -76,6 +79,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -84,6 +88,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -92,6 +97,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     <div style={{logoContainer}} className='shadow rounded-2 bg-transparent m-3' >
@@ -100,6 +106,7 @@ const Tools = () => {
      width={50}
      height={50}
      style={logoStyle}
+     alt='rasam'
      />
     </div>
     

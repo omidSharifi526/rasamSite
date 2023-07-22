@@ -98,6 +98,7 @@ const Advertising = () => {
    src={Frame}
    height={195} width={195}
    style={{position:'absolute',bottom:'75px',right:'50px'}}
+   alt='rasam'
    />
    <div className='yourImagineContainer' style={yourImagineContainer} >
   <div style={blueArae} >

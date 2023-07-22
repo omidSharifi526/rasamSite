@@ -38,6 +38,7 @@ const Services = () => {
           <Image
           src={Group}
           style={GroupImgStyle}
+          alt='rasam'
           />
         </div>
         </div>

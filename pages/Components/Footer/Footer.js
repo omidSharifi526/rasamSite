@@ -24,7 +24,7 @@ const linkStyle={
 
 
   return (
-    <div className='row  FooterContainer rounded-3  flex-wrap ' >
+    <div className='row  FooterContainer rounded-3  flex-wrap mt-5 ' >
 
      <div className='col-12 col-md-8  ' >
         <div className='row'>
@@ -36,6 +36,7 @@ const linkStyle={
           width={50}
           height={50}
           style={{margin:'0px 20px'}}
+          alt='rasam'
           />
        
           <h5 style={{fontFamily:'Aria'}} className='fw-bold fs-4 text-light ' >رسام نقش آناهیتا</h5>
@@ -49,7 +50,7 @@ const linkStyle={
          <Image
          src={Docs}
          width={30}
-        
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          دانش نامه و مقالات
@@ -62,7 +63,7 @@ const linkStyle={
          <Image
          src={DocSen}
          width={30}
-        
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          ثبت سفارش 
@@ -74,7 +75,7 @@ const linkStyle={
          <Image
          src={WritePage}
          width={30}
-        
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          آموزش های فنی طراحی 
@@ -86,7 +87,7 @@ const linkStyle={
           <Image
           src={ImgG}
           width={30}
-          
+          alt='rasam'
           />
           <span className='badge' style={linkStyle} >
           گالری تصاویر
@@ -98,7 +99,9 @@ const linkStyle={
          <div className='w-100 h-100 d-flex justify-content-start align-items-center' >
          <Image
          src={Persons}
-         width={30}/>
+         width={30}
+         alt='rasam'    
+         />
          <span className='badge' style={linkStyle} >
          درباره ما 
          </span>
@@ -110,6 +113,7 @@ const linkStyle={
          <Image
          src={DocsPerson}
          width={30}
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          استخدام
@@ -131,6 +135,7 @@ const linkStyle={
          <Image
          src={Call}
          width={30}
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          021-91092227
@@ -140,6 +145,7 @@ const linkStyle={
          <Image
          src={Location}
          width={30}
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          کیلومتر 24 جاده مخصوص کرج، گرمدره، خیابان سروستان، کوی سوم غربی، پلاک 133
@@ -149,6 +155,7 @@ const linkStyle={
          <Image
          src={PersonMail}
          width={30}
+         alt='rasam'
          />
          <span className='badge' style={linkStyle} >
          3163839995

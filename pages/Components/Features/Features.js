@@ -14,6 +14,7 @@ const Features = () => {
    src={img2}
    width={40}
    height={40}
+   alt='rasam'
    />
    <div>
     <h6 className='badge text-dark mt-2' style={{fontFamily:'Saad',fontSize:'18px'}} >
@@ -31,6 +32,7 @@ const Features = () => {
    src={img12}
    width={50}
    height={50}
+   alt='rasam'
    />
    <div>
     <h6 className='badge text-dark mt-2' style={{fontFamily:'Saad',fontSize:'18px'}} >
@@ -49,6 +51,7 @@ const Features = () => {
    src={img3}
    width={50}
    height={50}
+   alt='rasam'
    />
    <div>
     <h6 className='badge text-dark mt-2' style={{fontFamily:'Saad',fontSize:'18px'}} >
